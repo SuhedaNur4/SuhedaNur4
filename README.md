@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Suheda Nur 👋
 
-<!--
-**SuhedaNur4/SuhedaNur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+🚀 Exploring AI-driven development & cloud technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Curious about how software and AI shape real-world systems  
+- Focused on improving problem-solving and development skills  
+- Building my path in modern software development
+
+---
+
+## ⚡ Interests
+- 🤖 AI-driven development  
+- ☁️ Cloud computing  
+- 🧩 Backend systems  
+- 🌐 Web technologies  
+- 📊 Data structures & algorithms  
+- 🔌 API design  
+
+---
+
+## 🛠️ Tech Stack 
+🟡 **Familiar (Used & Practiced)**
+- 💻 C    
+- 🐍 Python
+- 🌍 HTML, CSS  
+
+🟢 **Beginner**
+- JavaScript
+- Java 
+-  C++ 
+
+---
+
+## 📈 Currently Learning
+- Cloud technologies  
+- AI applications  
+- Backend development logic  
+
+---
+
+## 🎯 Goals
+- Build real-world projects  
+- Improve coding & system design skills  
+
+---
+
+## How To Reach Me:
+- Medium: https://medium.com/@gulsuhedanur
+- LinkedIn: www.linkedin.com/in/suhedanurgul
+
+---
+
+
+⭐️ This profile is a work in progress. More projects coming soon!
