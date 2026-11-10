@@ -108,7 +108,7 @@ validation and failure handling.
 
 ## 🧭 What I Work On
 
-<img align="left" src="assets/cyberpunk-deer.gif" width="280" alt="cyberpunk deer scene"/>
+<img align="left" src="assets/cyberpunk-deer.gif" width="320" alt="cyberpunk deer scene"/>
 
 **Cloud & Backend**
 - Huawei Cloud services (ECS, ModelArts) and cloud-based AI infrastructure
@@ -133,14 +133,14 @@ validation and failure handling.
 
 <div align="center">
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SuhedaNur4&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=C4A7FF&text_color=A8C8F0&icon_color=FFB5D8&ring_color=C4A7FF" alt="Stats"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhedaNur4&theme=radical" alt="Stats"/>
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhedaNur4&theme=radical" alt="Top languages by commit"/>
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhedaNur4&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=C4A7FF&text_color=A8C8F0&icon_color=FFB5D8" alt="Top languages"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuhedaNur4&theme=radical" alt="Top languages by repo"/>
 
   <br/>
 
-  <img width="55%" src="https://streak-stats.demolab.com?user=SuhedaNur4&hide_border=true&background=0D0B1F&ring=C4A7FF&fire=FFC9A9&currStreakLabel=A3E4DB&sideLabels=A8C8F0&dates=6B7399&currStreakNum=FFB5D8&sideNums=A8C8F0" alt="Streak"/>
+  <img width="55%" src="https://streak-stats.demolab.com?user=SuhedaNur4&hide_border=true&background=141321&ring=FE428E&fire=FE428E&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=6B7399&currStreakNum=FE428E&sideNums=A9FEF7" alt="Streak"/>
 
 </div>
 
